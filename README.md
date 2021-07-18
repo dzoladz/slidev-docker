@@ -2,8 +2,8 @@
 
 ## Introduction
 
-Example slide created by [Derek Zoladz](https://www.derekzoladz.com/) to illustrate the use of
-Slidev.
+Example slide created by [Derek Zoladz](https://www.derekzoladz.com/) to explore the use of
+Slidev. I wanted to view [Gregory M. Kapfhammer's PyOhio 2021](https://github.com/gkapfham/pyohio2021-presentation) presentation slides, so I needed a quick viewer.
 
 ## Commands
 
